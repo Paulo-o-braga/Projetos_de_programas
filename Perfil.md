@@ -1,6 +1,6 @@
-Nome:
-## Paulo de Oliveira Braga
-Curso:
-# Licenciatura em Computação
-Matrícula:
-# 1915280021
+🧑🏽 Nome:
+## Paulo de Oliveira Braga 
+📝 Matricula:
+## 1915280021 
+📧 E-mail:
+## pdob.lic19@uea.edu.br 
