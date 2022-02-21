@@ -1,8 +1,8 @@
 //Criando classes
 class Aluno {
-    public readonly nome: string; //atributos
-    public turma: string;
-    public numero: Number;
+    public readonly nome: string; //atributo_1
+    public turma: string; //atributo_2
+    public numero: Number; //atributo_3
     
     constructor(nome: string, turma: string, numero: number){
         this.nome = nome;
