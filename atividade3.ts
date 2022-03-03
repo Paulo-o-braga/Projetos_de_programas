@@ -1,5 +1,5 @@
 //Criando classes
-class Aluno {
+class Estudante {
     public readonly nome: string; //atributo_1
     public turma: string; //atributo_2
     public numero: Number; //atributo_3
